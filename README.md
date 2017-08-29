@@ -9,7 +9,9 @@
 
 ```css
 /*html没有margin和padding body只有margin没有padding*/
-html{font-family:"Comic Sans MS";box-sizing:border-box;}
+html{font-family:"Comic Sans MS";box-sizing:border-box;font-size:10px;}
 *,*:before,*:after{box-sizing:inherit;}
 body{margin:0;}
+/*rem根据html设置的font-size大小 1rem=10px*/
+div{font-size:1.2rem;}
 ```
