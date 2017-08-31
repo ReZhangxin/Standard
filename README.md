@@ -33,13 +33,15 @@ element
   -webkit-box-orient: vertical;
 }
 /*兼容*/
-element{
+element
+{
     position: relative;
     line-height: 1.4em;
     /* 4 times the line-height to show 4 lines */
     height: 5.6em;
 }
-p::after {
+p:after 
+{
     content: "...";
     font-weight: bold;
     position: absolute;
