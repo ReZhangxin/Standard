@@ -1,16 +1,1 @@
-# HTML 规范
-
-## HTML5标准模板
-
-```html
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta charset="UTF-8">
-<title>HTML5标准模版</title>
-</head>
-<body>
-	
-</body>
-</html>
-```
+[HTML规范](https://github.com/ReZhangxin/Standard/blob/master/HTML%E8%A7%84%E8%8C%83.md)
